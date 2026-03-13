@@ -12,7 +12,7 @@ import { Platform } from "react-native";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD15DMDI6KFTC2ZSoCiqHDw-BSubUWvgEA",
+  apiKey: "your api key",
   authDomain: "tunes-bb922.firebaseapp.com",
   projectId: "tunes-bb922",
   storageBucket: "tunes-bb922.firebasestorage.app",
